@@ -48,7 +48,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
-    projectCode:`https://github.com/tani066/My-Portfolio`,
+    projectCode:`https://github.com/tani066/My-Portfolio`
   },
   {
     title: "Capstone Project",
