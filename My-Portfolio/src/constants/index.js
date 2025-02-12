@@ -41,6 +41,8 @@ export const PROJECTS = [
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    projectCode: `https://github.com/tani066/Food-Del-App-React`,
+    projectLink:`https://food-del-app-to.netlify.app/`
   },
   {
     title: "Portfolio Website",
@@ -48,7 +50,8 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
-    projectCode:`https://github.com/tani066/My-Portfolio`
+    projectCode:`https://github.com/tani066/My-Portfolio`,
+    projectLink:`https://food-del-app-to.netlify.app/`
   },
   {
     title: "Capstone Project",
