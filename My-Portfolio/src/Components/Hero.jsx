@@ -37,9 +37,12 @@ const Hero = () => {
                     className="my-2 max-w-xl py-6 font-light tracking-tight"> {HERO_CONTENT}</motion.p>
                 </div>
             </div>
-            <div className="w-full lg:w-1/2 lg:p-8">
+            <div className="w-full lg:w-1/2 lg:p-8 mt-30 ">
                 <div className="flex justify-center mt-[-120px]">
                     <motion.img 
+                    className="rounded-2xl"
+                    // height={100}
+                    width={400}
                     initial = {{x:100 , opacity:0}}
                     animate = {{x:0 , opacity:1}}
                     transition={{duration:1, delay:1.2}}
